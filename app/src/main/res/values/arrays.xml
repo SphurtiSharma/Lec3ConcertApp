@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="SpinnerItems">
+        <item>Rock Band</item>
+        <item>Pop Band</item>
+    </string-array>
+</resources>

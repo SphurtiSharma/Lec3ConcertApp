@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lec3ConcertApp</string>
+    <string name="textConcertTickets">Concert Tickets</string>
+    <string name="txtNumOfTickets" />
+    <string name="hintTickets">Number of Tickets</string>
+    <string name="btnCalculateCost">CALCULATE COST</string>
+    <string name="contentDesc">Concert</string>
+    <string name="txtResults" />
+</resources>
